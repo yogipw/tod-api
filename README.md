@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/c4/c6/fb/c4c6fb0469f227a4d297c68059dc950d.jpg" alt="YOGI" width="170" />
+<img src="https://i.pinimg.com/736x/d5/93/d9/d593d9b5d4908a2c89b5a8a71eefbe4c.jpg" alt="YOGI" width="170" />
 
 ## YOGIPW-API
 
