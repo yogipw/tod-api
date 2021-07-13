@@ -6,13 +6,13 @@
 </div>
 
 <p align="center">
-<a href="##"><img title="tod-api" src="https://img.shields.io/static/v1?label=package&message=tod-api&color=red"></a>
+<a href="##"><img title="tod-api" src="https://img.shields.io/static/v1?label=package&message=tod-api&color=blue"></a>
 </p>
 <p align="center">
   <a href="https://github.com/yogipw"><img title="Author" src="https://img.shields.io/badge/Author-yogipw-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=tod-api&color=pink"></a>
+<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=tod-api&color=blue"></a>
 </p>
 
 ## ```INSTALL And UNINSTALL```
@@ -115,7 +115,7 @@ tod.turnbackhoax()
 ``` 
 const tod = require('tod-api');
 
-tod.servermc(query)
+tod.servermc()
     .then(result => {
      console.log(result)
 });
@@ -144,7 +144,7 @@ tod.jalantikus(query)
 ``` 
 const tod = require('tod-api');
 
-tod.tribunnews(query)
+tod.tribunnews()
     .then(result => {
      console.log(result)
 });
@@ -153,7 +153,7 @@ tod.tribunnews(query)
 ``` 
 const tod = require('tod-api');
 
-tod.kompasnews(query)
+tod.kompasnews()
     .then(result => {
      console.log(result)
 });
